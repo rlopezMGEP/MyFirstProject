@@ -1,0 +1,3 @@
+Matlab parameters= readParametersFromFile("parametersFile")
+simulationResults= simulateModelUsingParameters(parameters)
+writeResultsIntoFile(simulationResults,"resultsFile")
