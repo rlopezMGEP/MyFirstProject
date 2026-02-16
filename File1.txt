@@ -1,4 +1,4 @@
 This is my first file.
 I am changing its content again.
 
-I am THE MASTER of the Universe
+I am THE MASTER
