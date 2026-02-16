@@ -1,1 +1,1 @@
-window
+open the window
