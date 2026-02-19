@@ -1,1 +1,2 @@
 This is the change made in folder 1
+and this is the change in folder 2
